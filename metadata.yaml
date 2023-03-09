@@ -1,0 +1,26 @@
+_repo: Le-parfum-de-la-Dame-Noire-b-Physiologie-humoristique-de-l-amour-Africain_70202
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sonolet, Louis
+    gutenberg_agent_id: '55649'
+    url: http://www.gutenberg.org/2009/agents/55649
+description: ''
+gutenberg_issued: '2023-03-04'
+identifiers:
+  gutenberg: '70202'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=msu.31293105705168
+pgterms:marc905: 20220113121828sonolet
+pgterms:marc906: '1911'
+pgterms:marc907: FR
+production_note: Gaëlle Vutron (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aFrance :$bLa renaissance du livre, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Le parfum de la Dame Noire : $b Physiologie humoristique de l''amour Africain'
+url: http://www.gutenberg.org/ebooks/70202
